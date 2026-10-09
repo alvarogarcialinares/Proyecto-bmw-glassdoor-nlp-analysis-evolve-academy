@@ -1,0 +1,34 @@
+# Datos grandes
+data/*.parquet
+data/*.csv
+!data/README.md
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Modelos y cachés
+.cache/
+huggingface/
+models/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
