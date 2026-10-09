@@ -210,8 +210,7 @@ Por tanto, los resultados deberían contrastarse con información interna de RRH
 ```text
 .
 ├── README.md
-├── GarciaLinares_Alvaro_NLP_Glassdoor_BMW_v8_FINAL.ipynb
-├── GarciaLinares_Alvaro_NLP_Glassdoor_BMW_presentacion_v7.pptx
+├── GarciaLinares_Alvaro_NLP_Glassdoor_BMW.ipynb
 └── data/
     └── README.md
 ```
